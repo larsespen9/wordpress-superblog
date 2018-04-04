@@ -1,0 +1,599 @@
+# Translation of Themes - Checathlon in Norwegian (Bokmål)
+# This file is distributed under the same license as the Themes - Checathlon package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-12-06 22:20:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nb_NO\n"
+"Project-Id-Version: Themes - Checathlon\n"
+
+#. Theme Name of the plugin/theme
+msgid "Checathlon"
+msgstr "Checathlon"
+
+#. Description of the plugin/theme
+msgid "Checathlon is the perfect theme for your next business site. Or selling your digital products using Easy Digital Downloads Plugin. You can also showcase your services, portfolios, testimonials, and team members. There are multiple widget areas to set content in many ways. What more you need for your business or e-commerce site!"
+msgstr "Checathlon er det perfekte temaet for din neste business nettside. Eller for å selge dine digitale produkter ved bruk av Easy Digital Downloads utvidelsen. Du kan også vise frem dine tjenester, portfolioer, vurderinger og team medlemmer. Det finnes flere widget områder for å vise frem innhold på mange forskjellige måter. Hva mer trenger du for din business eller e–commerce nettside!"
+
+#: inc/functions-polylang.php:18
+msgid "Footer text"
+msgstr "Footer tekst"
+
+#. Template Name of the plugin/theme
+msgid "No Featured Image"
+msgstr "Mangler fremhevet bilde"
+
+#. translators: %s: post title
+#: inc/template-tags.php:195
+msgid "1<span class=\"screen-reader-text\"> Comment on %s</span>"
+msgstr "1<span class=\"screen-reader-text\"> kommentar til %s</span>"
+
+#: 404.php:20
+msgid "404"
+msgstr "404"
+
+#: functions.php:286
+msgid "Add Service and Pricing Widgets here, they appear in Front Page or Pricing Page Template."
+msgstr "Legg til tjenester og priser widgeter her, de vises på forside eller priser sidemalen."
+
+#: board/loop-topic.php:6
+msgid "Add new topic"
+msgstr "Legg til nytt emne"
+
+#: functions.php:276
+msgid "Add widgets here for Front Page widget area."
+msgstr "Legg til widgeter her for widget område for forside."
+
+#: functions.php:216
+msgid "Add widgets here for after posts or pages."
+msgstr "Legg til widgeter her for området etter innlegg eller sider."
+
+#: functions.php:226
+msgid "Add widgets here for before footer widget area 1."
+msgstr "Legg til widgeter her for før footer widget område 1."
+
+#: functions.php:236
+msgid "Add widgets here for before footer widget area 2."
+msgstr "Legg til widgeter her for før footer widget område 2."
+
+#: functions.php:246
+msgid "Add widgets here for before footer widget area 3."
+msgstr "Legg til widgeter her for før footer widget område 3."
+
+#: functions.php:297
+msgid "Add widgets here for downloads."
+msgstr "Legg til widgeter her for nedlastinger."
+
+#: functions.php:256
+msgid "Add widgets here for footer widget area 1."
+msgstr "Legg til widgeter her for footer widget område 1."
+
+#: functions.php:266
+msgid "Add widgets here for footer widget area 2."
+msgstr "Legg til widgeter her for footer widget område 2."
+
+#: functions.php:206
+msgid "Add widgets here for posts or pages."
+msgstr "Legg til widgeter her for innlegg eller sider."
+
+#: functions.php:224
+msgid "Before footer widget area 1"
+msgstr "Før footer widget område 1"
+
+#: functions.php:234
+msgid "Before footer widget area 2"
+msgstr "Før footer widget område 2"
+
+#: functions.php:244
+msgid "Before footer widget area 3"
+msgstr "Før footer widget område 3"
+
+#: inc/customizer/settings-front-page.php:140 inc/functions-polylang.php:15
+msgid "Blog area title"
+msgstr "Tittel for område for blogg"
+
+#: misc/entry-footer.php:13 template-parts/content-portfolio_project.php:59
+msgid "Categories:"
+msgstr "Kategorier:"
+
+#: inc/admin.php:108
+msgid "Checathlon Plus is Plugin that gives power and more features to Checathlon Theme."
+msgstr "Checathlon Plus er utvidelse som gir Checathlon temaet kraft og flere egenskaper."
+
+#: functions.php:61
+msgid "Checkout Page"
+msgstr "Checkout side"
+
+#: template-parts/content-portfolio_project.php:44
+msgid "Client"
+msgstr "Kunde"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Kommentarer er stengt."
+
+#: template-parts/content-portfolio_project.php:47
+msgid "Completed"
+msgstr "Fullført"
+
+#: inc/template-tags.php:328 inc/template-tags.php:331
+msgid "Continue reading"
+msgstr "Fortsett å lese"
+
+#: misc/entry-product-info.php:17
+msgid "Details"
+msgstr "Detaljer"
+
+#: inc/admin.php:136
+msgid "Do you need extra functionality? Checathlon has built-in support for the following plugins."
+msgstr "Har du behov for ekstra funksjonalitet? Checathlon har innebygd støtte for følgende utvidelser."
+
+#: inc/customizer/settings-front-page-featured.php:54
+msgid "Downloads"
+msgstr "Nedlastinger"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:140
+msgid "Edit %s"
+msgstr "Rediger %s"
+
+#: inc/customizer/settings-front-page-featured.php:73
+msgid "Featured Content"
+msgstr "Fremhevet innhold"
+
+#: inc/customizer/settings-front-page-featured.php:33
+msgid "Featured area title"
+msgstr "Tittel for fremhevet område"
+
+#: functions.php:254
+msgid "Footer widget area 1"
+msgstr "Footer widget område 1"
+
+#: functions.php:264
+msgid "Footer widget area 2"
+msgstr "Footer widget område 2"
+
+#: inc/functions-edd.php:42
+msgid "Free"
+msgstr "Gratis"
+
+#: inc/customizer/settings-front-page.php:12
+msgid "Front Page"
+msgstr "Forside"
+
+#: inc/customizer/settings-front-page-featured.php:12
+msgid "Front Page Featured Area"
+msgstr "Fremhevet område for forside"
+
+#: functions.php:274
+msgid "Front Page widget area"
+msgstr "Widget område for forside"
+
+#: inc/admin.php:112
+msgid "Get Checathlon Plus"
+msgstr "Få Checathlon Plus"
+
+#: inc/customizer/pro/class-customize.php:76
+msgid "Go Pro"
+msgstr "Oppgrader til Pro"
+
+#: inc/admin.php:119
+msgid "Help &amp; Documentation"
+msgstr "Hjelp &amp; dokumentasjon"
+
+#: inc/customizer/settings-front-page.php:73
+msgid "Hide Blog Posts"
+msgstr "Skjul blogginnlegg"
+
+#: inc/customizer/settings-front-page.php:33
+msgid "Hide Service and Pricing Section"
+msgstr "Skjul seksjon for tjenester og priser"
+
+#: inc/customizer/settings-front-page.php:53
+msgid "Hide Testimonials"
+msgstr "Skjul vurderinger"
+
+#: inc/customizer/settings-front-page-featured.php:13
+msgid "In this section you can modify Front Page Featured area."
+msgstr "I denne seksjonen kan du modifisere fremhevet område for forside."
+
+#: inc/customizer/settings-front-page.php:13
+msgid "In this section you can modify Front Page Template."
+msgstr "I denne seksjonen kan du modifisere forside sidemal."
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det virker som ikke kan finne det du ser etter. Kanskje et søk kan hjelpe."
+
+#: board/loop-topic.php:31
+msgid "Latest reply:"
+msgstr "Siste svar:"
+
+#. translators: %s: post title
+#: inc/template-tags.php:133
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Legg igjen en kommentar<span class=\"screen-reader-text\"> på %s</span>"
+
+#: template-parts/content-portfolio_project.php:45
+msgid "Location"
+msgstr "Sted"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lora, translate this to 'off'. Do not translate into your own language.
+#: functions.php:337
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "på"
+
+#: templates/account-page.php:30
+msgid "Lost password?"
+msgstr "Mistet passord?"
+
+#: functions.php:204
+msgid "Main sidebar"
+msgstr "Hoved sidebar"
+
+#: menus/menu-primary.php:21
+msgid "Menu"
+msgstr "Meny"
+
+#: inc/admin.php:105
+msgid "More Features"
+msgstr "Flere egenskaper"
+
+#: inc/customizer/pro/class-customize.php:75
+msgid "More features?"
+msgstr "Flere egenskaper?"
+
+#: 404.php:35
+msgid "Most Used Categories"
+msgstr "Mest brukte kategorier"
+
+#: comments.php:43 comments.php:60
+msgid "Newer comments"
+msgstr "Nyere kommentarer"
+
+#: single.php:22
+msgid "Next"
+msgstr "Neste"
+
+#: single.php:23
+msgid "Next post:"
+msgstr "Neste innlegg:"
+
+#: inc/customizer/settings-front-page-featured.php:51
+msgid "Nothing"
+msgstr "Ingenting"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ingenting funnet"
+
+#: comments.php:44 comments.php:61
+msgid "Older comments"
+msgstr "Eldre kommentarer"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oi! Vi kan ikke finne denne siden."
+
+#: inc/admin.php:170
+msgid "Other Icons"
+msgstr "Andre ikoner"
+
+#: inc/template-tags.php:358 template-parts/content-jetpack-portfolio.php:34
+#: template-parts/content-page.php:36
+#: template-parts/content-portfolio_project.php:35
+#: template-parts/content.php:44
+msgid "Page"
+msgstr "Side"
+
+#: 404.php:20
+msgid "Page not found icon"
+msgstr "Siden finnes ikke"
+
+#: template-parts/content-jetpack-portfolio.php:30
+#: template-parts/content-page.php:32
+#: template-parts/content-portfolio_project.php:31
+#: template-parts/content.php:40
+msgid "Pages:"
+msgstr "Sider:"
+
+#: inc/functions-icons.php:47
+msgid "Please define an SVG icon filename."
+msgstr "Vennligst definer et SVG ikon filnavn."
+
+#: inc/template-tags.php:120
+msgid "Posted in %1$s"
+msgstr "Publisert i %1$s"
+
+#: inc/template-tags.php:30
+msgid "Posted on"
+msgstr "Publisert den"
+
+#: single.php:25
+msgid "Previous"
+msgstr "Forrige"
+
+#: single.php:26
+msgid "Previous post:"
+msgstr "Forrige innlegg:"
+
+#: inc/functions-edd.php:37 inc/functions-edd.php:39
+msgid "Price:"
+msgstr "Pris:"
+
+#: inc/functions-options.php:219
+msgid "Pricing"
+msgstr "Priser"
+
+#: inc/customizer/settings-front-page.php:98 inc/functions-polylang.php:13
+msgid "Pricing area title"
+msgstr "Tittel for område for priser"
+
+#: functions.php:55 functions.php:140
+msgid "Primary"
+msgstr "Primær"
+
+#: menus/menu-primary.php:25
+msgid "Primary Menu"
+msgstr "Hoved meny"
+
+#: inc/functions-options.php:171 inc/functions-options.php:195
+msgid "Products"
+msgstr "Varer"
+
+#: inc/template-tags.php:345
+msgid "Proudly powered by %s"
+msgstr "Stolt drevet av %s"
+
+#. Translators: The %s is the post title shown to screen readers.
+#: inc/template-tags.php:156
+msgid "Read more %s"
+msgstr "Les mer %s"
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar til å publisere ditt første innlegg? <a href=\"%1$s\">Kom i gang her</a>."
+
+#: inc/functions-options.php:267
+msgid "Recent blog posts"
+msgstr "Nylig blogginnlegg"
+
+#: board/loop-topic.php:29
+msgid "Replies: %s"
+msgstr "Svar: %s"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Søkeresultater for: %s"
+
+#: inc/functions-filters.php:169
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Søkeresultater for &#8220;%s&#8221;"
+
+#: inc/customizer/settings-front-page-featured.php:55
+msgid "Select Pages"
+msgstr "Velg sider"
+
+#. Translators: %s stands for number. For example Select page 1.
+#: inc/customizer/settings-front-page-featured.php:104
+msgid "Select page %s"
+msgstr "Velg side %s"
+
+#: inc/customizer/settings-front-page-featured.php:74
+msgid "Select what you want to show on Front Page featured area."
+msgstr "Velg hva du vil vise i fremhevet område for forside."
+
+#: functions.php:284
+msgid "Service and Pricing widget area"
+msgstr "Widget område for tjenester og priser"
+
+#: functions.php:295
+msgid "Sidebar for downloads"
+msgstr "Sidebar for nedlastinger"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Hopp over til innhold"
+
+#: functions.php:56 functions.php:149
+msgid "Social Links"
+msgstr "Sosiale lenker"
+
+#: menus/menu-social.php:11
+msgid "Social Menu"
+msgstr "Sosial meny"
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Beklager, men ingenting passet dine søkeord. Vennligst prøv igjen med noen andre søkeord."
+
+#. translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:332
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "på"
+
+#: board/loop-topic.php:27
+msgid "Started by %s"
+msgstr "Startet av %s"
+
+#: inc/admin.php:133
+msgid "Supported Plugins"
+msgstr "Støttede utvidelser"
+
+#: inc/admin.php:152
+msgid "Supported Social Links Menu Icons"
+msgstr "Støttede sosial meny ikoner"
+
+#: inc/template-tags.php:126
+msgid "Tagged %1$s"
+msgstr "Tagget %1$s"
+
+#: misc/entry-footer.php:14 template-parts/content-portfolio_project.php:60
+msgid "Tags:"
+msgstr "Tagger:"
+
+#: inc/customizer/settings-front-page.php:119 inc/functions-polylang.php:14
+msgid "Testimonial area title"
+msgstr "Tittel for område for vurderinger"
+
+#: inc/functions-options.php:243
+msgid "Testimonials"
+msgstr "Vurderinger"
+
+#: inc/customizer.php:19
+msgid "Theme Settings"
+msgstr "Tema innstillinger"
+
+#: inc/template-tags.php:347
+msgid "Theme: %1$s by %2$s"
+msgstr "Tema: %1$s av %2$s"
+
+#. translators: %1$s: smiley
+#: 404.php:53
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Prøv å se i de månedlige arkivene. %1$s"
+
+#: inc/admin.php:126
+msgid "View Documentation"
+msgstr "Se dokumentasjon"
+
+#. Translators: The %s is the post title shown to screen readers.
+#: misc/entry-portfolio-info.php:14
+msgid "Visit project %s"
+msgstr "Se prosjekt %s"
+
+#: board/loop-topic.php:30
+msgid "Voices: %s"
+msgstr "Stemmer: %s"
+
+#: functions.php:214
+msgid "Widget area after content"
+msgstr "Widget område etter innhold"
+
+#: inc/admin.php:122
+msgid "With Checathlon Plus you also get priority support. See also documentation."
+msgstr "Med Checathlon Plus får du også prioritert support. Se også dokumentasjon."
+
+#: templates/account-page.php:26
+msgid "You must be logged in to view the content of this page."
+msgstr "Du må være logget inn for å se innholdet på denne siden."
+
+#: inc/functions-options.php:331
+msgid "Your cart is empty"
+msgstr "Din handlevogn er tom"
+
+#: comments.php:34
+msgctxt "comments title"
+msgid "One comment %2$s"
+msgid_plural "%1$s comments %2$s"
+msgstr[0] "En kommentar %2$s"
+msgstr[1] "%1$s kommentarer %2$s"
+
+#: inc/template-tags.php:44
+msgctxt "post author"
+msgid "by %s"
+msgstr "av %s"
+
+#. translators: 1: Number of comments 2: post title
+#: inc/template-tags.php:190 inc/template-tags.php:200
+msgid "%1$s<span class=\"screen-reader-text\"> Comment on %2$s</span>"
+msgstr "%1$s<span class=\"screen-reader-text\"> Kommentar til %2$s</span>"
+
+#: inc/admin.php:140
+msgid "Easy Digital Downloads"
+msgstr "Easy Digital Downloads"
+
+#: inc/template-tags.php:345
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:118 inc/template-tags.php:124
+msgid ", "
+msgstr ", "
+
+#. Translators: Separates tags, categories, etc. when displaying a post.
+#: inc/template-tags.php:82
+msgctxt "taxonomy terms separator"
+msgid ", "
+msgstr ", "
+
+#. translators: 1: Posted on string 2: post author
+#: inc/template-tags.php:29
+msgctxt "post date"
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#. Translators: The &hellip; is mark after excerpt.
+#: inc/functions-filters.php:33
+msgid "&hellip;"
+msgstr "&hellip;"
+
+#: inc/functions-edd.php:122
+msgid "Demo"
+msgstr "Demo"
+
+#: inc/admin.php:142
+msgid "Jetpack"
+msgstr "Jetpack"
+
+#: inc/admin.php:141
+msgid "Custom Content Portfolio"
+msgstr "Custom Content Portfolio"
+
+#: inc/functions-icons.php:42
+msgid "Please define default parameters in the form of an array."
+msgstr "Vennligst definer standardparametere i form av en matrise (array)."
+
+#. Template Name of the plugin/theme
+msgid "Team Page"
+msgstr "Sidemal for team"
+
+#. Template Name of the plugin/theme
+msgid "Pricing Page"
+msgstr "Sidemal for priser"
+
+#. Template Name of the plugin/theme
+msgid "Featured Page"
+msgstr "Sidemal for fremhevet innhold"
+
+#. Template Name of the plugin/theme
+msgid "Account Page"
+msgstr "Sidemal for konto"
+
+#: template-parts/content-portfolio_project.php:46
+msgid "Started"
+msgstr "Påbegynt"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Det ser ut som ingenting ble funnet ut på den plasseringen. Du kan forsøke en av lenkene under eller et søk?"
+
+#: inc/customizer/settings-front-page-featured.php:53
+msgid "Portfolio Projects"
+msgstr "Portefølje prosjekter"
+
+#: inc/customizer/settings-front-page-featured.php:52
+msgid "Portfolios"
+msgstr "Porteføljer"
+
+#. Author URI of the plugin/theme
+msgid "https://foxland.fi/"
+msgstr "https://foxland.fi/"
+
+#. Author of the plugin/theme
+msgid "Sami Keijonen"
+msgstr "Sami Keijonen"
+
+#. Theme URI of the plugin/theme
+msgid "https://foxland.fi/downloads/checathlon/"
+msgstr "https://foxland.fi/downloads/checathlon/"

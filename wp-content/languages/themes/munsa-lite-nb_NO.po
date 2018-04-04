@@ -1,0 +1,356 @@
+# Translation of Themes - Munsa Lite in Norwegian (Bokmål)
+# This file is distributed under the same license as the Themes - Munsa Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-12-10 12:03:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nb_NO\n"
+"Project-Id-Version: Themes - Munsa Lite\n"
+
+#. Description of the plugin/theme
+msgid "Munsa Lite is a minimal theme for creative people like photobloggers and artists. It has a clean and fresh responsive design."
+msgstr "Munsa Lite er et minimal tema for kreative mennesker som fotobloggere og kunstnere. Det har ren og frisk responsiv design."
+
+#. Theme Name of the plugin/theme
+msgid "Munsa Lite"
+msgstr "Munsa Lite"
+
+#: inc/customizer/pro/class-customize.php:78
+msgid "Go Pro"
+msgstr "Oppgrader til Pro"
+
+#: inc/customizer/pro/class-customize.php:77
+msgid "Munsa (Pro)"
+msgstr "Munsa (Pro)"
+
+#: template-parts/content-none.php:35
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det virker som vi ikke kan finne det du ser etter. Kanskje et søk vil hjelpe."
+
+#: template-parts/content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Beklager, men ingenting passet til din søkekriteria. Vennligst prøv igjen med andre søkeord."
+
+#: template-parts/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar til å publisere ditt første innlegg? <a href=\"%1$s\">Begynn her</a>."
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr "Ingenting funnet"
+
+#: template-parts/content-audio.php:42 template-parts/content-gallery.php:42
+#: template-parts/content-video.php:42 template-parts/content.php:44
+msgid "Tags"
+msgstr "Stikkord"
+
+#: template-parts/content-audio.php:41 template-parts/content-gallery.php:41
+#: template-parts/content-video.php:41 template-parts/content.php:43
+msgid "Categories"
+msgstr "Kategorier"
+
+#. Translators: #%s means text before category or tag.
+#: template-parts/content-audio.php:41 template-parts/content-audio.php:42
+#: template-parts/content-gallery.php:41 template-parts/content-gallery.php:42
+#: template-parts/content-video.php:41 template-parts/content-video.php:42
+#: template-parts/content.php:43 template-parts/content.php:44
+msgid "#%s"
+msgstr "#%s"
+
+#: template-parts/content-audio.php:27 template-parts/content-gallery.php:27
+#: template-parts/content-page.php:26 template-parts/content-video.php:27
+#: template-parts/content.php:29
+msgid "Pages:"
+msgstr "Sider:"
+
+#: single.php:30
+msgid "Previous post:"
+msgstr "Forrige innlegg:"
+
+#: single.php:29
+msgid "Previous"
+msgstr "Forrige"
+
+#: single.php:27
+msgid "Next post:"
+msgstr "Neste innlegg:"
+
+#: single.php:26
+msgid "Next"
+msgstr "Neste"
+
+#: sidebar-primary.php:14
+msgctxt "Sidebar aria label"
+msgid "Primary Sidebar"
+msgstr "Hoved sidebar"
+
+#: sidebar-footer.php:12
+msgctxt "Sidebar aria label"
+msgid "Footer Sidebar"
+msgstr "Footer Sidebar"
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Søk"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Søk &hellip;"
+
+#: searchform.php:11 searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Søk etter:"
+
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr "Søkeresultat for: %s"
+
+#: pages/front-page.php:33
+msgid "Scroll to Content"
+msgstr "Bla til innhold"
+
+#: misc/content-featured-areas.php:121
+msgid "Set Front Page Template content in the Customizer. Or <a href=\"%1$s\">publish your first post here</a>."
+msgstr "Set innhold for forsidemal i Customizer/Tilpasser. Eller <a href=\"%1$s\">publiser ditt første innlegg here</a>."
+
+#: menus/menu-social.php:11 menus/menu-social.php:12
+msgid "Social Menu"
+msgstr "Sosial meny"
+
+#: index.php:50 search.php:36 template-parts/content-audio.php:31
+#: template-parts/content-gallery.php:31 template-parts/content-page.php:30
+#: template-parts/content-video.php:31 template-parts/content.php:33
+msgid "Page"
+msgstr "Side"
+
+#: index.php:49 search.php:35
+msgid "Next page"
+msgstr "Neste side"
+
+#: index.php:48 search.php:34
+msgid "Previous page"
+msgstr "Forrige side"
+
+#. Translators: Separates tags, categories, etc. when displaying a post.
+#: inc/template-tags.php:63
+msgctxt "taxonomy terms separator"
+msgid " #"
+msgstr " #"
+
+#: inc/template-tags.php:26
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Forfatter"
+
+#: inc/template-tags.php:18
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Publisert den"
+
+#: inc/customizer.php:19
+msgid "Theme Settings"
+msgstr "Tema innstillinger"
+
+#: inc/customizer/munsa-pro.php:35
+msgid "Hide or change footer text, several addiotional page templates, new widgets, and support."
+msgstr "Skjul eller endre footer tekst, flere sidemaler, nye widgeter og brukerstøtte."
+
+#: inc/customizer/munsa-pro.php:34
+msgid "Munsa (Pro) Features"
+msgstr "Munsa (Pro) egenskaper"
+
+#: inc/customizer/munsa-pro.php:13
+msgid "<a href=\"%s\" target=\"_blank\">Upgrade to Munsa (Pro)</a> for additional features."
+msgstr "<a href=\"%s\" target=\"_blank\">Oppgrader til Munsa (Pro)</a> for ytterligere egenskaper."
+
+#: inc/customizer/munsa-pro.php:12
+msgid "More Features"
+msgstr "Flere egenskaper"
+
+#: inc/customizer/front-page.php:112
+msgid "Blog URL text"
+msgstr "Blog URL tekst"
+
+#: inc/customizer/front-page.php:92
+msgid "Blog URL"
+msgstr "Blog URL"
+
+#: inc/customizer/front-page.php:72
+msgid "Blog title"
+msgstr "Blog tittel"
+
+#: inc/customizer/front-page.php:63 misc/content-featured-areas.php:69
+#: misc/content-featured-areas.php:74 misc/content-featured-areas.php:75
+msgid "Articles"
+msgstr "Artikler"
+
+#. Translators: %s stands for number. For example Select page 1.
+#: inc/customizer/front-page.php:43
+msgid "Select page %s"
+msgstr "Velg side %s"
+
+#: inc/customizer/front-page.php:13
+msgid "Select featured pages that will be displayed in Front Page Template."
+msgstr "Velg fremhevete sider som vil bli vist i forsidemal."
+
+#. #-#-#-#-#  munsa-lite.pot (Munsa Lite 1.1.0)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: inc/customizer/front-page.php:12
+msgid "Front Page"
+msgstr "Forside"
+
+#: inc/archive-filters.php:39
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Søkeresultater for &#8220;%s&#8221;"
+
+#: header.php:40
+msgid "Skip to content"
+msgstr "Hopp over til innhold"
+
+#: header.php:31
+msgid "Site is loading"
+msgstr "Side laster"
+
+#. Translators: The %s is the post title shown to screen readers.
+#: functions.php:291
+msgid "Continue reading %s"
+msgstr "Fortsett å lese %s"
+
+#: functions.php:236 sidebar-primary.php:11
+msgid "Info"
+msgstr "Info"
+
+#: functions.php:235 functions.php:237 menus/menu-primary.php:15
+#: sidebar-primary.php:16
+msgid "Close"
+msgstr "Lukk"
+
+#: functions.php:234 menus/menu-primary.php:11
+msgid "Menu"
+msgstr "Meny"
+
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:182
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "på"
+
+#. translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:177
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "på"
+
+#: functions.php:148
+msgid "A sidebar located in the footer of the site."
+msgstr "Sidebar plassert i nettsidens footer."
+
+#: functions.php:147
+msgctxt "sidebar"
+msgid "Footer"
+msgstr "Footer"
+
+#: functions.php:138
+msgid "The main sidebar. It is displayed on the right side of the page as off canvas sidebar."
+msgstr "Hoved sidebar. Den vises til høyre på siden som en off–canvas sidebar."
+
+#: functions.php:137
+msgctxt "sidebar"
+msgid "Primary"
+msgstr "Hoved"
+
+#: functions.php:68
+msgid "Social Links Menu"
+msgstr "Meny for sosiale lenker"
+
+#: functions.php:67 menus/menu-primary.php:13
+msgid "Primary Menu"
+msgstr "Hoved meny"
+
+#: footer.php:37
+msgid "Back to top"
+msgstr "Tilbake til toppen"
+
+#: footer.php:32
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s by %2$s."
+
+#: footer.php:30
+msgid "Proudly powered by %s"
+msgstr "Stolt drevet av %s "
+
+#: footer.php:30
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr "Kommentarer er stengt."
+
+#: comments.php:55
+msgid "Newer Comments"
+msgstr "Nyere kommentarer"
+
+#: comments.php:54
+msgid "Older Comments"
+msgstr "Eldre kommentarer"
+
+#: comments.php:51
+msgid "Comment navigation"
+msgstr "Kommentar navigasjon"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One comment"
+msgid_plural "%1$s comments"
+msgstr[0] "En kommentar"
+msgstr[1] "%1$s kommentarer"
+
+#: comment.php:30
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar venter på moderering."
+
+#: comment.php:25
+msgctxt "%1%s is for comment date"
+msgid "%1$s"
+msgstr "%1$s"
+
+#. translators: %1$s: smiley
+#: 404.php:47
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Prøv å se i de månedlige arkivene. %1$s"
+
+#: 404.php:30
+msgid "Most Used Categories"
+msgstr "Mest brukte kategorier"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Det ser ut som ingenting ble funnet ut på den plasseringen. Du kan prøve en av lenkene under eller et søk?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oi! Vi kan ikke finne denne siden."
+
+#. Author URI of the plugin/theme
+msgid "https://foxland.fi/"
+msgstr "https://foxland.fi/"
+
+#. Author of the plugin/theme
+msgid "Sami Keijonen"
+msgstr "Sami Keijonen"
+
+#. Theme URI of the plugin/theme
+msgid "https://foxland.fi/downloads/munsa/"
+msgstr "https://foxland.fi/downloads/munsa/"
